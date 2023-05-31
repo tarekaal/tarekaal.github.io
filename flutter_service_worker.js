@@ -84,10 +84,10 @@ const RESOURCES = {
 "flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
 "icons/logo-aerium-1.png": "c9c1749b275f61ebc563d6596ccf2569",
 "icons/logo-aerium-2.png": "58b131c1e81194452cb702693c040a92",
-"index.html": "ca4064af8e02d645de9a0200570e5215",
-"/": "ca4064af8e02d645de9a0200570e5215",
-"main.dart.js": "0d933a272a2cb316298fb56b5765efe7",
-"manifest.json": "603fbc6854b7f4afae3b4b7fc7be4bc0",
+"index.html": "a48b22bc38180d34c1a82da6e5eba098",
+"/": "a48b22bc38180d34c1a82da6e5eba098",
+"main.dart.js": "2e4b8792a913b21e3e1c3b511190a2ba",
+"manifest.json": "6346eb9b89794731e2e0191eb9c431f4",
 "version.json": "3906fc5d38199c243ab81a45fee32c66"
 };
 
